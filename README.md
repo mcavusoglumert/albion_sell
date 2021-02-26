@@ -1,4 +1,5 @@
-1 - Auction House'a basarak itemları satma ekranına gelin.
+1 - Auction House'a basarak itemları satma ekranına gelin. ![alt text](https://i.hizliresim.com/sZUvBw.png)
+
 
 2 - Oyunu aşağı alarak programı çalıştırın, butona basın ve 5 saniye içerisinde oyun penceresine dönün.
 
